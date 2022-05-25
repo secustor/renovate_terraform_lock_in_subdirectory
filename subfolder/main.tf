@@ -2,7 +2,7 @@ terraform {
   required_providers {
     aws = {
       source  = "aws"
-      version = "3.0.0"
+      version = "3.75.2"
     }
     azurerm = {
       source  = "azurerm"
